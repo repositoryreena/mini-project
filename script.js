@@ -20,7 +20,6 @@ const response = {
     ]
   };
 
-  console.log(response.stepCount)
 
   let stepNumber=1
   if (stepNumber === 1) {
